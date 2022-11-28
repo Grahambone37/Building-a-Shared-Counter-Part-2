@@ -10,7 +10,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "json-server": "^0.16.3",
+    "json-server": "^0.17.1",
     "live-server": "^1.2.1"
   }
 }
